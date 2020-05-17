@@ -13,6 +13,11 @@ for k in aaa:
     list1.append(k+'='+aaa[k])
 print("&".join(list1))
 
+# 序列解包
+for k, v in aaa.items():
+    print(k, v)
+print(aaa.items())
+
 # 字母出现次数
 str1 = "&".join(list1)
 print(str1.count("a"))
@@ -41,3 +46,28 @@ print(str1.upper())
 
 # 去空格strip()，去左侧空格lstrip()，去右侧空格rstrip()
 print("    321    ".strip())
+
+# 通过fromkeys创建字典, dictname = dict.fromkeys(集合, value = None)
+knowledge = {"语文", "数学", "英语"}
+scores = dict.fromkeys(knowledge, "60")
+print(scores)
+
+# 占位符格式化
+name = "小明"
+age = 18
+money = 1.8
+print("我叫%s，我今年%d岁了，我有%f块钱" % (name, age, money))
+
+# format格式化
+print(f"我叫{name}，我今年{age}岁了，我有{money}块钱")
+print("我叫{}，我今年{}岁了，我有{}块钱".format(name, age, money))
+print("我叫{2}，我今年{1}岁了，我有{0}块钱".format(money, age, name))
+
+# 分割符
+print("{:,}".format(1000000))
+
+
+
+
+
+
