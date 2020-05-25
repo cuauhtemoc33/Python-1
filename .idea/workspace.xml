@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="521f6150-c43f-4035-ae88-a49526d695d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day06/decorator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/decorator2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/decorator3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/decorator4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/decorator5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/decorator6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/decorator7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day06/decorator2.py" beforeDir="false" afterPath="$PROJECT_DIR$/day06/decorator2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,26 +17,31 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/202004B$rule.coverage" NAME="rule Coverage Results" MODIFIED="1587802862603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
     <SUITE FILE_PATH="coverage/202004B$operator.coverage" NAME="operator Coverage Results" MODIFIED="1587806458813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/202004B$day01.coverage" NAME="day01 Coverage Results" MODIFIED="1587801933605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/202004B$module1.coverage" NAME="module1 Coverage Results" MODIFIED="1589641976550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
+    <SUITE FILE_PATH="coverage/202004B$decorator5.coverage" NAME="decorator5 Coverage Results" MODIFIED="1590377243148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
     <SUITE FILE_PATH="coverage/202004B$pure_function.coverage" NAME="pure_function Coverage Results" MODIFIED="1589898175006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
-    <SUITE FILE_PATH="coverage/202004B$class_demo.coverage" NAME="class_demo Coverage Results" MODIFIED="1589558839606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
     <SUITE FILE_PATH="coverage/202004B$tuple_list.coverage" NAME="tuple_list Coverage Results" MODIFIED="1589855292594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
-    <SUITE FILE_PATH="coverage/202004B$class_live.coverage" NAME="class_live Coverage Results" MODIFIED="1589523411876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
-    <SUITE FILE_PATH="coverage/202004B$iterator.coverage" NAME="iterator Coverage Results" MODIFIED="1589855371587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
-    <SUITE FILE_PATH="coverage/202004B$if_for_while.coverage" NAME="if_for_while Coverage Results" MODIFIED="1588009495100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
-    <SUITE FILE_PATH="coverage/202004B$decorator2.coverage" NAME="decorator2 Coverage Results" MODIFIED="1589960376030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
+    <SUITE FILE_PATH="coverage/202004B$decorator2.coverage" NAME="decorator2 Coverage Results" MODIFIED="1590372605291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
     <SUITE FILE_PATH="coverage/202004B$sequence.coverage" NAME="sequence Coverage Results" MODIFIED="1588784266656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
     <SUITE FILE_PATH="coverage/202004B$generator.coverage" NAME="generator Coverage Results" MODIFIED="1589890474527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
     <SUITE FILE_PATH="coverage/202004B$decorator.coverage" NAME="decorator Coverage Results" MODIFIED="1589959166397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
-    <SUITE FILE_PATH="coverage/202004B$module.coverage" NAME="module Coverage Results" MODIFIED="1589641254701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
     <SUITE FILE_PATH="coverage/202004B$var_live.coverage" NAME="var_live Coverage Results" MODIFIED="1587820570582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
+    <SUITE FILE_PATH="coverage/202004B$practice1.coverage" NAME="practice1 Coverage Results" MODIFIED="1589557646292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
+    <SUITE FILE_PATH="coverage/202004B$decorator4.coverage" NAME="decorator4 Coverage Results" MODIFIED="1590376165221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
+    <SUITE FILE_PATH="coverage/202004B$rule.coverage" NAME="rule Coverage Results" MODIFIED="1587802862603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
+    <SUITE FILE_PATH="coverage/202004B$day01.coverage" NAME="day01 Coverage Results" MODIFIED="1587801933605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/202004B$decorator7.coverage" NAME="decorator7 Coverage Results" MODIFIED="1590394072615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
+    <SUITE FILE_PATH="coverage/202004B$class_demo.coverage" NAME="class_demo Coverage Results" MODIFIED="1589558839606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
+    <SUITE FILE_PATH="coverage/202004B$class_live.coverage" NAME="class_live Coverage Results" MODIFIED="1589523411876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
+    <SUITE FILE_PATH="coverage/202004B$iterator.coverage" NAME="iterator Coverage Results" MODIFIED="1589855371587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
+    <SUITE FILE_PATH="coverage/202004B$if_for_while.coverage" NAME="if_for_while Coverage Results" MODIFIED="1588009495100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
+    <SUITE FILE_PATH="coverage/202004B$decorator6.coverage" NAME="decorator6 Coverage Results" MODIFIED="1590377209250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
+    <SUITE FILE_PATH="coverage/202004B$module.coverage" NAME="module Coverage Results" MODIFIED="1589641254701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
     <SUITE FILE_PATH="coverage/202004B$basic.coverage" NAME="basic Coverage Results" MODIFIED="1589530353623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
     <SUITE FILE_PATH="coverage/202004B$practice2.coverage" NAME="practice2 Coverage Results" MODIFIED="1589559341999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
+    <SUITE FILE_PATH="coverage/202004B$decorator3.coverage" NAME="decorator3 Coverage Results" MODIFIED="1590373426719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
     <SUITE FILE_PATH="coverage/202004B$inherit.coverage" NAME="inherit Coverage Results" MODIFIED="1588069003214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
-    <SUITE FILE_PATH="coverage/202004B$practice1.coverage" NAME="practice1 Coverage Results" MODIFIED="1589557646292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
     <SUITE FILE_PATH="coverage/202004B$module2.coverage" NAME="module2 Coverage Results" MODIFIED="1589641991007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
     <SUITE FILE_PATH="coverage/202004B$practice.coverage" NAME="practice Coverage Results" MODIFIED="1588786170735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
   </component>
@@ -40,51 +49,51 @@
     <session id="1332085534">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.108" value="1" />
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="csv" value="1" />
-          <entry key="py" value="33" />
+          <entry key="py" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="33" />
+          <entry key="Python" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="csv" value="34" />
           <entry key="dummy" value="7" />
-          <entry key="py" value="9302" />
+          <entry key="py" value="10612" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="41" />
-          <entry key="Python" value="9302" />
+          <entry key="Python" value="10612" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day06/pure_function.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="59" selection-start-line="59" selection-end-line="59" />
+            <state relative-caret-position="460">
+              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
               <folding>
                 <marker date="1589898174989" expanded="true" signature="445:450" ph="..." />
                 <marker date="1589898174989" expanded="true" signature="709:710" ph="..." />
@@ -95,13 +104,69 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day06/decorator2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <state relative-caret-position="208">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
-                <marker date="1590370690831" expanded="true" signature="63:68" ph="..." />
+                <marker date="1590372605255" expanded="true" signature="63:68" ph="..." />
+                <marker date="1590372605255" expanded="true" signature="270:271" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day06/decorator3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-60">
+              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <folding>
+                <marker date="1590374875541" expanded="true" signature="31:36" ph="..." />
+                <marker date="1590374875541" expanded="true" signature="163:319" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day06/decorator4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <marker date="1590376159565" expanded="true" signature="359:364" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day06/decorator5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day06/decorator6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day06/decorator7.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+              <folding>
+                <marker date="1590394279982" expanded="true" signature="27:32" ph="..." />
               </folding>
             </state>
           </provider>
@@ -159,6 +224,12 @@
         <option value="$PROJECT_DIR$/day06/pure_function.py" />
         <option value="$PROJECT_DIR$/day06/decorator.py" />
         <option value="$PROJECT_DIR$/day06/decorator2.py" />
+        <option value="$PROJECT_DIR$/day06/decorator_3.py" />
+        <option value="$PROJECT_DIR$/day06/decorator3.py" />
+        <option value="$PROJECT_DIR$/day06/decorator4.py" />
+        <option value="$PROJECT_DIR$/day06/decorator6.py" />
+        <option value="$PROJECT_DIR$/day06/decorator5.py" />
+        <option value="$PROJECT_DIR$/day06/decorator7.py" />
       </list>
     </option>
   </component>
@@ -180,6 +251,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -196,14 +268,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -217,8 +288,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.decorator2">
-    <configuration name="decorator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.decorator7">
+    <configuration name="decorator3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="202004B" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,7 +302,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day06/decorator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day06/decorator3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,7 +311,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="decorator2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="decorator4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="202004B" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,7 +324,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day06/decorator2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day06/decorator4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,51 +333,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="202004B" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day05" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day05/generator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="iterator" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="202004B" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day05" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day05/iterator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pure_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="decorator5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="202004B" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -319,7 +346,51 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day06/pure_function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day06/decorator5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="decorator6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="202004B" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day06/decorator6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="decorator7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="202004B" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day06/decorator7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -329,19 +400,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.iterator" />
-      <item itemvalue="Python.generator" />
-      <item itemvalue="Python.pure_function" />
-      <item itemvalue="Python.decorator" />
-      <item itemvalue="Python.decorator2" />
+      <item itemvalue="Python.decorator3" />
+      <item itemvalue="Python.decorator4" />
+      <item itemvalue="Python.decorator5" />
+      <item itemvalue="Python.decorator6" />
+      <item itemvalue="Python.decorator7" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.decorator2" />
-        <item itemvalue="Python.decorator" />
-        <item itemvalue="Python.pure_function" />
-        <item itemvalue="Python.generator" />
-        <item itemvalue="Python.iterator" />
+        <item itemvalue="Python.decorator7" />
+        <item itemvalue="Python.decorator5" />
+        <item itemvalue="Python.decorator6" />
+        <item itemvalue="Python.decorator4" />
+        <item itemvalue="Python.decorator3" />
       </list>
     </recent_temporary>
   </component>
@@ -362,12 +433,12 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26354083" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26758286" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4987874" visible="true" weight="0.32740214" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.497979" visible="true" weight="0.3268206" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39431617" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -375,8 +446,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.502021" side_tool="true" weight="0.3291815" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.497979" visible="true" weight="0.32740214" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.502021" side_tool="true" weight="0.32740214" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.497979" weight="0.3268206" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -513,19 +584,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day06/pure_function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
-          <folding>
-            <marker date="1589898174989" expanded="true" signature="445:450" ph="..." />
-            <marker date="1589898174989" expanded="true" signature="709:710" ph="..." />
-            <marker date="1589898174989" expanded="true" signature="709:714" ph="..." />
-            <marker date="1589898174989" expanded="true" signature="931:975" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day06/decorator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -537,12 +595,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/day06/pure_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <marker date="1589898174989" expanded="true" signature="445:450" ph="..." />
+            <marker date="1589898174989" expanded="true" signature="709:710" ph="..." />
+            <marker date="1589898174989" expanded="true" signature="709:714" ph="..." />
+            <marker date="1589898174989" expanded="true" signature="931:975" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/day06/decorator2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        <state relative-caret-position="208">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
-            <marker date="1590370690831" expanded="true" signature="63:68" ph="..." />
+            <marker date="1590372605255" expanded="true" signature="63:68" ph="..." />
+            <marker date="1590372605255" expanded="true" signature="270:271" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/decorator3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <marker date="1590374875541" expanded="true" signature="31:36" ph="..." />
+            <marker date="1590374875541" expanded="true" signature="163:319" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/decorator5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/decorator4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <marker date="1590376159565" expanded="true" signature="359:364" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/decorator6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/decorator7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding>
+            <marker date="1590394279982" expanded="true" signature="27:32" ph="..." />
           </folding>
         </state>
       </provider>
