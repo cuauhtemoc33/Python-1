@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="521f6150-c43f-4035-ae88-a49526d695d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day07/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/a.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/face_to_target1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/face_to_target2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/face_to_target3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/face_to_target4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/face_to_target5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/homework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/face_to_target10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/face_to_target11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/face_to_target6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/face_to_target7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/face_to_target8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/face_to_target9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day06/decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/day06/decorator1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/face_to_target5.py" beforeDir="false" afterPath="$PROJECT_DIR$/day07/face_to_target5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/day07/homework.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +20,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/202004B$operator.coverage" NAME="operator Coverage Results" MODIFIED="1587806458813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/202004B$face_to_target11.coverage" NAME="face_to_target11 Coverage Results" MODIFIED="1590502469746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07" />
     <SUITE FILE_PATH="coverage/202004B$module1.coverage" NAME="module1 Coverage Results" MODIFIED="1589641976550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
     <SUITE FILE_PATH="coverage/202004B$decorator5.coverage" NAME="decorator5 Coverage Results" MODIFIED="1590377243148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
     <SUITE FILE_PATH="coverage/202004B$pure_function.coverage" NAME="pure_function Coverage Results" MODIFIED="1589898175006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
@@ -34,15 +34,20 @@
     <SUITE FILE_PATH="coverage/202004B$var_live.coverage" NAME="var_live Coverage Results" MODIFIED="1587820570582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
     <SUITE FILE_PATH="coverage/202004B$practice1.coverage" NAME="practice1 Coverage Results" MODIFIED="1589557646292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
     <SUITE FILE_PATH="coverage/202004B$decorator4.coverage" NAME="decorator4 Coverage Results" MODIFIED="1590376165221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
+    <SUITE FILE_PATH="coverage/202004B$face_to_target7.coverage" NAME="face_to_target7 Coverage Results" MODIFIED="1590491883646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07" />
     <SUITE FILE_PATH="coverage/202004B$rule.coverage" NAME="rule Coverage Results" MODIFIED="1587802862603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
     <SUITE FILE_PATH="coverage/202004B$day01.coverage" NAME="day01 Coverage Results" MODIFIED="1587801933605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/202004B$face_to_target.coverage" NAME="face_to_target Coverage Results" MODIFIED="1590483444429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07" />
+    <SUITE FILE_PATH="coverage/202004B$face_to_target6.coverage" NAME="face_to_target6 Coverage Results" MODIFIED="1590489286601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07" />
     <SUITE FILE_PATH="coverage/202004B$decorator7.coverage" NAME="decorator7 Coverage Results" MODIFIED="1590394072615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
     <SUITE FILE_PATH="coverage/202004B$homework.coverage" NAME="homework Coverage Results" MODIFIED="1590482558725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07" />
     <SUITE FILE_PATH="coverage/202004B$class_demo.coverage" NAME="class_demo Coverage Results" MODIFIED="1589558839606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
+    <SUITE FILE_PATH="coverage/202004B$face_to_target10.coverage" NAME="face_to_target10 Coverage Results" MODIFIED="1590501606775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07" />
     <SUITE FILE_PATH="coverage/202004B$class_live.coverage" NAME="class_live Coverage Results" MODIFIED="1589523411876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
     <SUITE FILE_PATH="coverage/202004B$iterator.coverage" NAME="iterator Coverage Results" MODIFIED="1589855371587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
+    <SUITE FILE_PATH="coverage/202004B$face_to_target9.coverage" NAME="face_to_target9 Coverage Results" MODIFIED="1590496798047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07" />
     <SUITE FILE_PATH="coverage/202004B$if_for_while.coverage" NAME="if_for_while Coverage Results" MODIFIED="1588009495100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
+    <SUITE FILE_PATH="coverage/202004B$face_to_target8.coverage" NAME="face_to_target8 Coverage Results" MODIFIED="1590496212273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07" />
     <SUITE FILE_PATH="coverage/202004B$decorator6.coverage" NAME="decorator6 Coverage Results" MODIFIED="1590377209250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
     <SUITE FILE_PATH="coverage/202004B$module.coverage" NAME="module Coverage Results" MODIFIED="1589641254701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
     <SUITE FILE_PATH="coverage/202004B$basic.coverage" NAME="basic Coverage Results" MODIFIED="1589530353623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
@@ -71,52 +76,39 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="csv" value="3" />
-          <entry key="py" value="45" />
+          <entry key="py" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="45" />
+          <entry key="Python" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="csv" value="34" />
           <entry key="dummy" value="10" />
-          <entry key="py" value="12531" />
+          <entry key="py" value="14416" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="44" />
-          <entry key="Python" value="12531" />
+          <entry key="Python" value="14416" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day07/face_to_target4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <marker date="1590486025870" expanded="true" signature="13:18" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day07/face_to_target5.py">
+        <entry file="file://$PROJECT_DIR$/day07/face_to_target11.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="288">
+              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
               <folding>
-                <marker date="1590486447210" expanded="true" signature="11:12" ph="..." />
-                <marker date="1590486447210" expanded="true" signature="35:63" ph="..." />
+                <marker date="1590502469713" expanded="true" signature="34:39" ph="..." />
               </folding>
             </state>
           </provider>
@@ -168,13 +160,19 @@
         <option value="$PROJECT_DIR$/day06/decorator5.py" />
         <option value="$PROJECT_DIR$/day06/decorator7.py" />
         <option value="$PROJECT_DIR$/day07/a.csv" />
-        <option value="$PROJECT_DIR$/day07/homework.py" />
         <option value="$PROJECT_DIR$/day07/face_to_target.py" />
         <option value="$PROJECT_DIR$/day07/face_to_target1.py" />
         <option value="$PROJECT_DIR$/day07/face_to_target2.py" />
         <option value="$PROJECT_DIR$/day07/face_to_target3.py" />
         <option value="$PROJECT_DIR$/day07/face_to_target4.py" />
         <option value="$PROJECT_DIR$/day07/face_to_target5.py" />
+        <option value="$PROJECT_DIR$/day07/homework.py" />
+        <option value="$PROJECT_DIR$/day07/face_to_target6.py" />
+        <option value="$PROJECT_DIR$/day07/face_to_target7.py" />
+        <option value="$PROJECT_DIR$/day07/face_to_target8.py" />
+        <option value="$PROJECT_DIR$/day07/face_to_target9.py" />
+        <option value="$PROJECT_DIR$/day07/face_to_target10.py" />
+        <option value="$PROJECT_DIR$/day07/face_to_target11.py" />
       </list>
     </option>
   </component>
@@ -235,8 +233,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.face_to_target5">
-    <configuration name="face_to_target" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.face_to_target11">
+    <configuration name="face_to_target10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="202004B" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -249,7 +247,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\softwareData\pycharmData\202004B\day07\face_to_target1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day07/face_to_target10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,7 +256,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="face_to_target3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="face_to_target11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="202004B" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -271,7 +269,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day07/face_to_target3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day07/face_to_target11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,7 +278,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="face_to_target4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="face_to_target7" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="202004B" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -293,7 +291,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day07/face_to_target4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day07/face_to_target7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -302,7 +300,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="face_to_target5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="face_to_target8" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="202004B" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -315,7 +313,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day07/face_to_target5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day07/face_to_target8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -324,7 +322,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="face_to_target9" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="202004B" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -337,7 +335,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day07/homework.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day07/face_to_target9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -347,19 +345,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.homework" />
-      <item itemvalue="Python.face_to_target" />
-      <item itemvalue="Python.face_to_target3" />
-      <item itemvalue="Python.face_to_target4" />
-      <item itemvalue="Python.face_to_target5" />
+      <item itemvalue="Python.face_to_target7" />
+      <item itemvalue="Python.face_to_target8" />
+      <item itemvalue="Python.face_to_target9" />
+      <item itemvalue="Python.face_to_target10" />
+      <item itemvalue="Python.face_to_target11" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.face_to_target5" />
-        <item itemvalue="Python.face_to_target4" />
-        <item itemvalue="Python.face_to_target3" />
-        <item itemvalue="Python.face_to_target" />
-        <item itemvalue="Python.homework" />
+        <item itemvalue="Python.face_to_target11" />
+        <item itemvalue="Python.face_to_target10" />
+        <item itemvalue="Python.face_to_target9" />
+        <item itemvalue="Python.face_to_target8" />
+        <item itemvalue="Python.face_to_target7" />
       </list>
     </recent_temporary>
   </component>
@@ -394,7 +392,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.502021" side_tool="true" weight="0.32740214" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.497979" weight="0.3268206" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.497979" weight="0.32562277" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -605,33 +603,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day07/homework.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1048">
-          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <marker date="1590482558706" expanded="true" signature="40:45" ph="..." />
-            <marker date="1590482558706" expanded="true" signature="810:957" ph="..." />
-            <marker date="1590482558706" expanded="true" signature="994:1024" ph="..." />
-            <marker date="1590482558706" expanded="true" signature="1066:1071" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day07/face_to_target1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <marker date="1590484256865" expanded="true" signature="47:52" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day07/face_to_target2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
+        <state relative-caret-position="233">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
@@ -640,11 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-          <folding>
-            <marker date="1590484740131" expanded="true" signature="77:252" ph="..." />
-            <marker date="1590484740131" expanded="true" signature="108:227" ph="..." />
-            <marker date="1590484740131" expanded="true" signature="263:275" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -660,11 +629,101 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day07/face_to_target5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="220">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
-            <marker date="1590486447210" expanded="true" signature="11:12" ph="..." />
-            <marker date="1590486447210" expanded="true" signature="35:63" ph="..." />
+            <marker date="1590488760287" expanded="true" signature="11:12" ph="..." />
+            <marker date="1590488760287" expanded="true" signature="35:63" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07/face_to_target1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <marker date="1590484256865" expanded="true" signature="47:52" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07/homework.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="54" column="46" selection-start-line="54" selection-start-column="46" selection-end-line="54" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1590489115936" expanded="true" signature="40:45" ph="..." />
+            <marker date="1590489115936" expanded="true" signature="810:957" ph="..." />
+            <marker date="1590489115936" expanded="true" signature="1041:1071" ph="..." />
+            <marker date="1590489115936" expanded="true" signature="1113:1118" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07/face_to_target6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <marker date="1590489732288" expanded="true" signature="95:100" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07/face_to_target7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1590491912084" expanded="true" signature="23:28" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07/face_to_target8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-192">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <marker date="1590496334966" expanded="true" signature="21:26" ph="..." />
+            <marker date="1590496334966" expanded="true" signature="88:93" ph="..." />
+            <marker date="1590496334966" expanded="true" signature="150:155" ph="..." />
+            <marker date="1590496334966" expanded="true" signature="227:232" ph="..." />
+            <marker date="1590496334966" expanded="true" signature="379:384" ph="..." />
+            <marker date="1590496334966" expanded="true" signature="455:460" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07/face_to_target9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <marker date="1590496798032" expanded="true" signature="32:37" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07/face_to_target10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <marker date="1590501688183" expanded="true" signature="11:16" ph="..." />
+            <marker date="1590501688183" expanded="true" signature="933:938" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07/face_to_target11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <marker date="1590502469713" expanded="true" signature="34:39" ph="..." />
           </folding>
         </state>
       </provider>

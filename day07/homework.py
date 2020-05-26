@@ -52,6 +52,7 @@ def count_time(func):
     return swap
 
 
+# 语法糖的理解 count_time(func)方法调用中的参数传给__init__方法了
 @count_time
 def test():
     time.sleep(2)
