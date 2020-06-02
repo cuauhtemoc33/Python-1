@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="521f6150-c43f-4035-ae88-a49526d695d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day07/face_to_target10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/face_to_target11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/face_to_target6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/face_to_target7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/face_to_target8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/face_to_target9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/face_to_target12.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/face_to_target5.py" beforeDir="false" afterPath="$PROJECT_DIR$/day07/face_to_target5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/day07/homework.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +42,7 @@
     <SUITE FILE_PATH="coverage/202004B$if_for_while.coverage" NAME="if_for_while Coverage Results" MODIFIED="1588009495100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
     <SUITE FILE_PATH="coverage/202004B$face_to_target8.coverage" NAME="face_to_target8 Coverage Results" MODIFIED="1590496212273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07" />
     <SUITE FILE_PATH="coverage/202004B$decorator6.coverage" NAME="decorator6 Coverage Results" MODIFIED="1590377209250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
+    <SUITE FILE_PATH="coverage/202004B$face_to_target12.coverage" NAME="face_to_target12 Coverage Results" MODIFIED="1590563666253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07" />
     <SUITE FILE_PATH="coverage/202004B$module.coverage" NAME="module Coverage Results" MODIFIED="1589641254701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
     <SUITE FILE_PATH="coverage/202004B$basic.coverage" NAME="basic Coverage Results" MODIFIED="1589530353623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
     <SUITE FILE_PATH="coverage/202004B$practice2.coverage" NAME="practice2 Coverage Results" MODIFIED="1589559341999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
@@ -76,26 +70,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="csv" value="3" />
-          <entry key="py" value="59" />
+          <entry key="py" value="60" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="59" />
+          <entry key="Python" value="60" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="csv" value="34" />
           <entry key="dummy" value="10" />
-          <entry key="py" value="14416" />
+          <entry key="py" value="14539" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="44" />
-          <entry key="Python" value="14416" />
+          <entry key="Python" value="14539" />
         </counts>
       </usages-collector>
     </session>
@@ -103,12 +97,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day07/face_to_target11.py">
+        <entry file="file://$PROJECT_DIR$/day07/face_to_target12.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+            <state relative-caret-position="200">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
-                <marker date="1590502469713" expanded="true" signature="34:39" ph="..." />
+                <marker date="1590563880391" expanded="true" signature="11:16" ph="..." />
               </folding>
             </state>
           </provider>
@@ -173,6 +167,7 @@
         <option value="$PROJECT_DIR$/day07/face_to_target9.py" />
         <option value="$PROJECT_DIR$/day07/face_to_target10.py" />
         <option value="$PROJECT_DIR$/day07/face_to_target11.py" />
+        <option value="$PROJECT_DIR$/day07/face_to_target12.py" />
       </list>
     </option>
   </component>
@@ -203,11 +198,6 @@
               <item name="202004B" type="b2602c69:ProjectViewProjectNode" />
               <item name="202004B" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="202004B" type="b2602c69:ProjectViewProjectNode" />
-              <item name="202004B" type="462c0819:PsiDirectoryNode" />
-              <item name="day07" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -219,7 +209,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -233,7 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.face_to_target11">
+  <component name="RunManager" selected="Python.face_to_target12">
     <configuration name="face_to_target10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="202004B" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -278,7 +268,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="face_to_target7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="face_to_target12" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="202004B" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -291,7 +281,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day07/face_to_target7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day07/face_to_target12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -345,19 +335,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.face_to_target7" />
       <item itemvalue="Python.face_to_target8" />
       <item itemvalue="Python.face_to_target9" />
       <item itemvalue="Python.face_to_target10" />
       <item itemvalue="Python.face_to_target11" />
+      <item itemvalue="Python.face_to_target12" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.face_to_target12" />
         <item itemvalue="Python.face_to_target11" />
         <item itemvalue="Python.face_to_target10" />
         <item itemvalue="Python.face_to_target9" />
         <item itemvalue="Python.face_to_target8" />
-        <item itemvalue="Python.face_to_target7" />
       </list>
     </recent_temporary>
   </component>
@@ -376,14 +366,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2716249" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2716249" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.497979" visible="true" weight="0.32740214" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.497979" weight="0.32740214" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39431617" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -392,7 +381,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.502021" side_tool="true" weight="0.32740214" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.497979" weight="0.32562277" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.497979" visible="true" weight="0.32562277" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -720,10 +709,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day07/face_to_target11.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        <state relative-caret-position="229">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
           <folding>
-            <marker date="1590502469713" expanded="true" signature="34:39" ph="..." />
+            <marker date="1590502500279" expanded="true" signature="34:39" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07/face_to_target12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <marker date="1590563880391" expanded="true" signature="11:16" ph="..." />
           </folding>
         </state>
       </provider>
